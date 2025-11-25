@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.333333in" height="1.6388888in" class="slides-canvas" viewBox="0 0 888 118">
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <g transform="matrix(1, 0, 0, 1, -0.61621094, -0.17510986)">
+      <rect x="0" y="0" width="107.07984" height="29.2" fill="#000000" />
+      <rect x="107.07984" y="0" width="481.48032" height="29.2" fill="#000000" />
+      <rect x="588.5602" y="0" width="298.67227" height="29.2" fill="#000000" />
+      <rect x="0" y="29.2" width="107.07984" height="29.2" fill="#CBCBCB" />
+      <rect x="107.07984" y="29.2" width="481.48032" height="29.2" fill="#CBCBCB" />
+      <rect x="588.5602" y="29.2" width="298.67227" height="87.6" fill="#CBCBCB" />
+      <rect x="0" y="58.4" width="107.07984" height="29.2" fill="#E7E7E7" />
+      <rect x="107.07984" y="58.4" width="481.48032" height="29.2" fill="#E7E7E7" />
+      <rect x="0" y="87.6" width="107.07984" height="29.2" fill="#CBCBCB" />
+      <rect x="107.07984" y="87.6" width="481.48032" height="29.2" fill="#CBCBCB" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 0L0 29.2" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 29.2L0 58.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 58.4L0 87.6" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 87.6L0 116.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 0L107.08 29.2" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 29.2L107.08 58.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 58.4L107.08 87.6" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 87.6L107.08 116.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M588.56 0L588.56 29.2" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M588.56 29.2L588.56 58.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M588.56 58.4L588.56 87.6" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M588.56 87.6L588.56 116.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M887.23 0L887.23 29.2" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M887.23 29.2L887.23 58.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M887.23 58.4L887.23 87.6" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M887.23 87.6L887.23 116.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 0L107.08 0" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 0L588.56 0" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M588.56 0L887.23 0" />
+      <path stroke-width="3" stroke="#FFFFFF" fill="none" d="M0 29.2L107.08 29.2" />
+      <path stroke-width="3" stroke="#FFFFFF" fill="none" d="M107.08 29.2L588.56 29.2" />
+      <path stroke-width="3" stroke="#FFFFFF" fill="none" d="M588.56 29.2L887.23 29.2" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 58.4L107.08 58.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 58.4L588.56 58.4" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 87.6L107.08 87.6" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 87.6L588.56 87.6" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M0 116.8L107.08 116.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M107.08 116.8L588.56 116.8" />
+      <path stroke-width="1" stroke="#FFFFFF" fill="none" d="M588.56 116.8L887.23 116.8" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 6.583789, 3.42489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="bold" font-stretch="normal" font-size="10.5pt" fill="#FFFFFF" x="0" y="15.996309"><tspan x="0" y="15.996309">What</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 113.66363, 3.42489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="bold" font-stretch="normal" font-size="10.5pt" fill="#FFFFFF" x="0" y="15.996309"><tspan x="0" y="15.996309">Physical Location</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 595.144, 3.42489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="bold" font-stretch="normal" font-size="10.5pt" fill="#FFFFFF" x="0" y="15.996309"><tspan x="0" y="15.996309">Dashboard</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 6.583789, 32.62489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="15.996309"><tspan x="0" y="15.996309">Console</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 113.66363, 32.62489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="15.996309"><tspan x="0" y="15.996309">Back cover and on the console under back cover</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 595.144, 32.62489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="70.39631"><tspan x="0" y="19.996307">Hold the Matrix logo at the top of the</tspan><tspan xml:space="preserve" x="261.625" y="19.996307"> </tspan><tspan x="0" y="36.79631">Home screen for 5-7 seconds. View</tspan><tspan xml:space="preserve" x="247.50977" y="36.79631"> </tspan><tspan x="0" y="53.59631">serial numbers in the Dashboard screen</tspan><tspan xml:space="preserve" x="280.6963" y="53.59631"> </tspan><tspan x="0" y="70.39631">that will appear.</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 6.583789, 61.82489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="15.996309"><tspan x="0" y="15.996309">Frame</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 113.66363, 61.82489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="15.996309"><tspan x="0" y="15.996309">Front stabilizer</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 6.583789, 91.02489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="15.996309"><tspan x="0" y="15.996309">Mast</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 113.66363, 91.02489)"><text font-family="DejaVu Sans" font-style="normal" font-weight="normal" font-stretch="normal" font-size="10.5pt" fill="#000000" x="0" y="15.996309"><tspan x="0" y="15.996309">Under the front top shroud</tspan></text></g>
+  </g>
+</svg>
